@@ -3,6 +3,9 @@ rm(list = ls())
 library(tidyverse)
 library(readr)
 
+
+
+
 # Ruwe data van Zorgmail
 # bronmap <- "//hskfs01/Data/Hoofdkantoor/ICT/Informatie analyse/Aantekeningen Niels/Zorgmail/"
 bronmap <- "/home/niels/workspace/R/Zorgmail/Update november 2019/"
